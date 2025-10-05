@@ -1,4 +1,4 @@
-That’s a clean and potent set — each term a stratum of the [same mountain(https://ukb-dt.github.io/si-3/):
+That’s a clean and potent set — each term a stratum of the [same mountain](https://ukb-dt.github.io/si-3/):
 
 **Computation** is the base layer — the mineral logic of the cosmos. It’s how structure emerges from variance: from binary distinctions and finite automata to the universal Turing machine.
 
